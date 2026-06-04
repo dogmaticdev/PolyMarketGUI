@@ -1,3 +1,5 @@
+![demo](./Screenshot_20260604_122324.png)
+
 # PolyMarketGUI
 A GUI/market finder for PolyMarket written in Python. I made this because the PolyMarket website UI is horrid and its impossible to search for specific markets. This pretty much allows you to use every single search filter available in the API, and its not a slower than a snail.
 
